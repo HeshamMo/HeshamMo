@@ -11,7 +11,8 @@ I love designing and implementing services and applications using the .NET frame
 ### Languages and Tools
 <table align="center">
     <td align="center" width="96">
-        <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="80"/>
+        <img src=![image](https://github.com/user-attachments/assets/fd7d5bb9-028e-4306-b866-98d5e9ff4a49)
+" width="80"/>
         <br>&nbsp;C#&nbsp;
     </td>
     <td align="center" width="96">
